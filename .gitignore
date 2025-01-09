@@ -1,0 +1,64 @@
+# Node.js dependencies
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# macOS system files
+.DS_Store
+
+# Android/IntelliJ
+/android/.gradle/
+/android/app/build/
+/android/.idea/
+/android/local.properties
+*.iml
+
+# Xcode
+/ios/Pods/
+/ios/build/
+/ios/*.xcworkspace
+/ios/DerivedData/
+/ios/.idea/
+/ios/*.xcodeproj/project.xcworkspace
+
+# Logs
+*.log
+
+# React Native packager
+/packager-info.json
+/packager.pid
+/react-native-debugger.json
+
+# Testing
+/coverage/
+
+# Fastlane
+/fastlane/report.xml
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sln
+*.dsk
+*.user
+*.userosscache
+*.sublime-project
+*.sublime-workspace
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Other
+.expo/
+.expo-shared/
+.env
